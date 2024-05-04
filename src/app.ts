@@ -69,7 +69,7 @@ const main  = async () => {
             method: 'POST',
             headers: new Headers({
                 'content-type':'application/json', 
-                'Authorization':'token c3d3f84514338861617367fef6f80582e110755cs'
+                'Authorization':'token c3d3f84514338861617367fef6f80582e110755c'
             }),
             body: JSON.stringify(data)
         };
