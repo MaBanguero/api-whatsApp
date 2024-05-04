@@ -1,0 +1,42 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '573177351597@s.whatsapp.net',
+    fromMe: false,
+    id: '3A049CE798CABC4580B3',
+    participant: undefined
+  },
+  messageTimestamp: 1714185510,
+  pushName: 'I’m MitoXmar 😎',
+  broadcast: false,
+  message: Message {
+    conversation: 'Entregada 48',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Entregada 48',
+  name: 'I’m MitoXmar 😎',
+  from: '573177351597'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573177351597@s.whatsapp.net',
+    fromMe: false,
+    id: '3A5E4579D69CDB65F2E0',
+    participant: undefined
+  },
+  messageTimestamp: 1714185546,
+  pushName: 'I’m MitoXmar 😎',
+  broadcast: false,
+  message: Message {
+    conversation: 'Entrega sin exito 48',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Entrega sin exito 48',
+  name: 'I’m MitoXmar 😎',
+  from: '573177351597'
+}
